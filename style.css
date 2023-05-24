@@ -1,0 +1,39 @@
+* {
+    background-color: peru;
+}
+
+.headers {
+    background-color: peru;
+    color: lightpink;
+    text-align: center;
+}
+
+.ingredients-and-steps {
+    color: pink;
+}
+
+.subheadings {
+    font-family: Verdana, Arial, sans-serif;
+    font-style: italic;
+    color: green;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+    border: 4px dotted pink;
+}
+
+.links {
+    display: inline;
+    text-align: center;
+    font-size: 20px;
+}
+
+img {
+    height: 480px;
+    width: 480px;
+    margin: auto;
+    display: block;
+    border: 4px dotted pink;
+}
